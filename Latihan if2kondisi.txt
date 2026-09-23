@@ -1,0 +1,31 @@
+Latihan if
+
+https://docs.google.com/spreadsheets/d/1TFnM25V06B9ph_t2k9R2rWz1ob3XO9gmmxdGegQRERs/edit?usp=sharing
+
+Algoritma:
+1.mulai
+2. masukan data penjualan
+3. gunakan rumus if untuk qty pada table diskon
+4. jika qty lebih dari 5 diskon 5%
+5. jika qty kurang dari itu maka tidak diskon
+6. jika qty lebih dari 3 diskon 2%
+7. jika qty kurang dari itu maka tidak diskon
+8. tampilkan diskon
+9. selesai
+
+pseudocode:
+MULAI
+
+Tabel Penjualan
+    Nama Barang
+    Qty
+    Start IF
+    JIKA Qty > 5 MAKA
+        Diskon 5%
+	Diskon 0%
+    JIKA Qty > 3 MAKA
+        Diskon 2%
+        Diskon 0%
+    End IF
+
+SELESAI
