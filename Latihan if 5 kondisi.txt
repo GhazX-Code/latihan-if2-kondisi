@@ -1,0 +1,32 @@
+Latihan if 5 kondisi
+
+algoritma:
+1. Mulai
+2. Input Nilai
+3. Jika Nilai >= 90 maka Keterangan ← "A"
+4. jika Nilai >= 80 maka Keterangan ← "B"
+5. jika Nilai >= 70 maka Keterangan ← "C"
+6. jika Nilai >= 60 maka Keterangan ← "D"
+7. Jika tidak Keterangan ← "E"
+8. Tampilkan Keterangan
+9. Selesai
+
+pseudocode:
+mulai
+
+    masukan nilai
+
+    IF nilai >= 90 
+        keterangan ← "A"
+    IF nilai >= 80 
+        keterangan ← "B"
+    IF nilai >= 70 
+        keterangan ← "C"
+    IF nilai >= 60 
+        keterangan ← "D"
+    IF
+        keterangan ← "E"
+
+    OUTPUT keterangan
+
+selesai
